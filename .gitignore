@@ -1,0 +1,5 @@
+﻿temp_data/
+temp_data/a.dat
+*.sqlite
+*.Rdata
+*.dat
