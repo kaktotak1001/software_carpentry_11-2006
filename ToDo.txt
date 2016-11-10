@@ -7,3 +7,4 @@
 - Meters to Furlongs
 - Degrees to radians
 - adding a new line
+-test for conflict
