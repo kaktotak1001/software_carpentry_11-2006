@@ -8,3 +8,4 @@
 - Degrees to radians
 - adding a new line
 - conflictinglinefromben
+-test for conflict
